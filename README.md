@@ -21,6 +21,7 @@ average menu item composition.
 ## Key Findings
 - Burger King ranks as the least healthy chain overall (composite score: 2.14)
 - Pizza Hut ranks as the most healthy (composite score: 4.57)
+- KFC has the least amount of protein on average, despite chicken being one of the highest protein foods. 
 - One-way ANOVA confirmed statistically significant differences across chains 
   for all 7 nutrients (all p < 0.05), validating the ranking methodology
 
