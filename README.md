@@ -7,7 +7,7 @@ average menu item composition.
 
 ## Dataset
 - Source: Kaggle — Fast Food Nutrition Menu V2
-- ~1140 menu items across 6 chains after cleaning
+- 1140 menu items across 6 chains after cleaning
 
 ## Methodology
 - Cleaned missing values via median imputation; dropped columns with >50% missing data
